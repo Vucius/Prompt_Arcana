@@ -1,0 +1,67 @@
+{
+  "Head_and_Skull": {
+    "Skull_Proportions": "Appears to have a realistic medium head size rather than an exaggerated large head. The back of the skull looks gently rounded without strong protrusion, forming a slightly rear-rounded oval skull shape from most photographic angles.",
+    "Forehead": "Medium-height forehead with a relatively smooth surface; the upper edge of the frontal bone is not particularly prominent. The hairline forms a gentle arc, giving a balanced look without an obviously tall forehead or a visibly receding hairline.",
+    "Hairline_Shape": "Visually a natural rounded-arc hairline, slightly lower in the center with mild recession on both sides; does not form a sharp V-shaped widow's peak. The temples transition smoothly without clearly exposed bald corners in typical appearances.",
+    "Hair_Volume": "Looks like visually dense hair with relatively thick strands and strong texture, most often styled as dark brown or dark brown-black long hair, giving an impression of thick Western-style hair density."
+  },
+  "Ears": {
+    "Position": "From side view in photos, the center of the ears roughly aligns with the midsection of the nasal bridge and sits slightly toward the back, so they do not stand out prominently.",
+    "Size_and_Form": "Appear to be medium-sized ears with clearly defined auricle contours. The angle between the ear base and the head looks moderate—neither very protruding nor tightly pinned to the scalp.",
+    "Earlobes": "Earlobes look free and slightly full without exaggeration, suitable for wearing earrings. Small hoops or minimalist styles are often seen and help enhance the vertical lines of the face."
+  },
+  "Neck_and_Head_Neck_Connection": {
+    "Neck_Length": "Visually a medium to slightly long neck with some muscle definition. During fitness-intensive periods (such as Baywatch training), the trapezius and clavicle lines appear clearer, conveying a healthy and strong impression.",
+    "Head_Neck_Connection": "From photos, the transition between head and neck looks smooth without an obvious forward head posture. A common on-camera pose is upright shoulders and back with the head slightly tilted back, emphasizing the jawline and facial dimensionality."
+  },
+  "Facial_Proportions": {
+    "Three_Section_Ratio": "The upper, middle, and lower facial thirds appear close to a 1:1:1 ratio in most front-facing photos, aligning with realistic aesthetic standards.",
+    "Feature_Placement": "Eyes sit in the upper portion of the mid-face; the nose appears slightly longer, and the lower face is not short, creating an overall mature and slightly more aggressive aura."
+  },
+  "Eyes": {
+    "Iris_Color": "Official descriptions generally list her eye color as blue, but visually it often reads as a cool-toned gray-blue that can show hints of gray-green under different lighting. A practical description for modeling is a high-contrast gray-blue with a subtle green-tinted gradient, showing noticeable variation under different lighting conditions.",
+    "Structure_and_Presence": "The iris looks relatively large in proportion to the face, with strong contrast between sclera and iris. The limbal ring appears darker than the inner iris, creating a sharp boundary that can resemble high-contrast glass beads from a distance. From the front, pupils sometimes appear slightly higher within the visible iris, contributing to an intense, focused gaze.",
+    "Eye_Shape": "Large, slightly round eyes set in relatively deep eye sockets. Horizontal width is moderate while vertical height is comparatively large, making the eyes look round and deep. The combination of sunken sockets and bold eyeliner in many looks amplifies aggressiveness and visual pressure."
+  },
+  "Eyebrows": {
+    "Color_and_Texture": "Deep brown to near-black eyebrows, clearly darker than the eye color, with high density and thick hair volume, creating a strong framing effect around the eyes.",
+    "Shape": "A defined brow peak is often visible; the brows start relatively flat at the head and then rise toward the tail with a slight angle. Overall, they read as bold, structured brows with a sharp Western aesthetic rather than soft, flat Korean-style brows."
+  },
+  "Nose": {
+    "Nasal_Bridge": "A medium-high to high, mostly straight nasal bridge with an almost straight line from the glabella to the tip, without visible collapse in photos. Clear highlights are often visible from the front under lighting.",
+    "Tip_and_Ala": "The nasal tip appears slightly pointed but not blunt; nasal wings are of moderate width—neither very petite nor noticeably wide. The overall impression is clean, sharp, and cinematic in three-dimensionality."
+  },
+  "Lips_and_Mouth_Area": {
+    "Fullness": "Both upper and lower lips appear full, with the lower lip more prominent, forming a typical bottom-heavy Western-style pout. Even at rest there is usually a subtle pouty appearance.",
+    "Lip_Shape": "A well-defined cupid's bow with a clear M-shape; mouth corners naturally turn slightly upward. When smiling, some gum can be visible, showing a mild gummy smile trait that adds strong expressive tension."
+  },
+  "Face_Shape_and_Contour": {
+    "Face_Shape": "Overall between oval and slightly round. The transition from cheekbones to jawline looks soft; the chin is not sharply pointed yet contours remain clear. It reads as a proportionally balanced, camera-friendly cinematic face.",
+    "Contour_Details": "The jawline follows a rounded curve rather than a sharply cut edge, supported by sufficient bone structure. The forehead looks smooth with a subtle backward tilt, giving an impression of moderate bone structure with relatively high feature concentration toward the center of the face."
+  },
+  "Overall_Aura": {
+    "Visual_Focus": "Visual focus is extremely concentrated on the eyes—large, deep, cool-toned, and high-contrast—making them the most recognizable facial feature.",
+    "Overall_Impression": "Face shape, nose, and lips are conventionally attractive, but the saturation and contrast of the eyes significantly elevate the overall on-camera presence."
+  },
+  "Modeling_and_Face_Customization_Notes": {
+    "Iris": "Use a highly saturated cool gray-blue base with a slightly lighter inner ring and a darker outer ring, with relatively high brightness, to capture her typical eye impression.",
+    "Eye_Dimensions": "Moderate horizontal width with larger vertical height, deep-set eyes with a clearly defined upper eyelid crease; eyeliner and mascara often enhance the perceived size.",
+    "Key_Contours": "Medium-high straight nose, full lips, a moderately bony but not excessively sharp jawline, and thick dark eyebrows with a defined arch are the key structural landmarks."
+  },
+  "Basic_Body_Parameters": {
+    "Height": "Most public sources list her around 5'8" (about 173 cm), while a few mention up to 5'10" (about 178 cm), so a practical working range is approximately 173–178 cm.",
+    "Weight": "Different sources give slightly different numbers, generally in the range of about 56–62 kg. On camera she appears lean and fit rather than extremely thin, suggesting a healthy body weight."
+  },
+  "Measurements_and_Proportions": {
+    "Measurements": "Several public databases list approximate measurements around 35-27-34 inches (about 89-69-86 cm), which aligns with a more prominent upper body and upper-bust-focused proportions.",
+    "Bust_and_Cup_Size": "Common listings put her around 32C, with some sources citing 34D; overall, there seems to be a smaller underbust with a relatively full upper bust, and exact cup size varies by source.",
+    "Line_Characteristics": [
+      "There is a noticeable waist taper below the ribcage, but not an extremely narrow one; the look is more healthy and firm than delicate.",
+      "The difference between hip and bust measurements is not very large in many photos, resulting in a relatively straight-up-and-down silhouette with subtle curves rather than a highly exaggerated hourglass shape."
+    ]
+  },
+  "Posture_and_Overall_Visual_Impression": {
+    "Vertical_Proportions": "On camera, the legs read as relatively long. Combined with a 170+ cm apparent height, the overall silhouette looks tall and model-like with strong vertical lines. The lower body appears firm, with visible abdominal and leg muscle definition in more athletic periods (notably around the Baywatch training period).",
+    "Shoulders_and_Chest": "Shoulders appear medium to slightly wide. The visual center of the upper body often comes from the bust, dark hair, and striking eyes together, creating a strong upper-body presence in most outfits."
+  }
+}

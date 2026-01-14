@@ -1,0 +1,46 @@
+{
+  "Skull_and_Head_Shape": {
+    "Head_Size_and_Skull_Form": "Close to a realistic medium head size. Based on photo proportions, the back of the skull has some roundness without exaggerated protrusion, fitting a fairly standard slightly rear-rounded oval skull shape.",
+    "Forehead": "Forehead height is medium to slightly high, with a noticeable rounded contour. The hairline is overall a soft U-shape rather than a sharp widow’s peak. From the front, the forehead width is close to the cheekbone width, creating a sweet, youthful impression."
+  },
+  "Hairline_and_Hair_Volume": {
+    "Hairline_Shape": "Natural rounded hairline, slightly lower in the center with mild recession on both sides; not a V-shaped widow’s peak. The temple area transitions smoothly with no obvious bald corners.",
+    "Hair_Volume_and_Texture": "Often styled in fluffy waves or smooth straight hair. Visually medium-to-high hair volume; hair strands are relatively fine, making it easy to create a light, airy look."
+  },
+  "Ear_Shape_and_Position": {
+    "Position": "From the side, the center of the ear roughly aligns with the midsection of the nasal bridge and sits slightly toward the back, not visually prominent.",
+    "Size_and_Contour": "Ear size is medium to slightly small with rounded contours. The helix has a soft curve, and the ear sits at a moderate distance from the head, not protruding. Often partially covered by hair in photos, giving it a low visual presence and a cute, small-ear impression.",
+    "Earlobes": "Free earlobes with some fullness but not exaggerated, not tightly attached to the face. Suitable for wearing earrings; small hoops or minimalist styles are commonly seen to enhance vertical facial lines."
+  },
+  "Neck_and_Head_Neck_Connection": {
+    "Neck_Length_and_Vibe": "Visually, the neck is medium in length and relatively slender. When paired with Japanese- or Korean-style outfits and exposed collarbones, it appears light and airy, adding an elfin quality.",
+    "Head_Neck_Transition": "Smooth transition between head and neck with no obvious forward head posture. A common camera pose is upright shoulders and back with the head slightly tilted back, which further emphasizes the jawline and facial dimensionality."
+  },
+  "Facial_Proportions_and_Youthful_Traits": {
+    "Three_Facial_Sections": "Upper face (forehead) ≈ middle face (eyes and nose), with the lower face (mouth and chin) slightly shorter, resulting in an overall youthful facial structure.",
+    "Vertical_Feature_Placement": "Eyes sit slightly higher; the nose and mouth are also positioned slightly higher, making the chin appear shorter and cuter."
+  },
+  "Eyes": {
+    "Iris_Color": "Naturally light gray-blue to blue-green tones with a cool undertone. In many photos, blue-gray or light brown enlarging contact lenses are used, making the overall appearance lean more toward a glassy, light blue or gray-blue look.",
+    "Eye_Shape_and_Size": "Eyes are relatively large with slightly rounded eye openings and subtly downturned outer corners, creating a watery, doll-like eye effect. They occupy a relatively large proportion of the face and serve as the main visual focus.",
+    "Makeup_and_Details": "Often uses enlarging lenses, inner-corner highlighting, and lower-lash makeup to make the iris appear larger. There is a clearly visible dark limbal ring around the pupil, partly enhanced by contact lenses."
+  },
+  "Eyebrows": {
+    "Color": "Adjusted according to hair color, ranging from light brown to golden brown, usually about half a shade darker than the hair to maintain a soft contrast.",
+    "Shape": "Low brow peak, overall fairly straight with a slight downward tilt. The brow head is soft and edges are not sharply defined, often paired with downturned eyeliner to create a tare-eye (droopy-eye) aesthetic."
+  },
+  "Nose": {
+    "Nasal_Bridge": "Medium height, not the high, sharp aquiline nose typical of Western supermodels, but closer to a smooth straight nose. It does not dominate the face from the front, while showing clear dimensionality from the side.",
+    "Nasal_Tip_and_Ala": "The tip is rounded and small in volume; the nostrils are narrow and do not flare outward to compress the face. Nostril exposure is low, giving an overall refined and delicate appearance that leans toward a cute style rather than a highly aggressive, sculptural nose."
+  },
+  "Lips_and_Mouth_Area": {
+    "Fullness": "Upper lip is medium in fullness, lower lip slightly fuller. Overall fullness is moderate, neither extremely thin nor Western-style plump, well-suited to a youthful aesthetic.",
+    "Lip_Shape": "The cupid’s bow is not sharp, leaning toward a rounded, wave-like shape. The center of the upper lip has a subtle dip, and the lower lip contour is smooth. When the mouth is closed, the corners naturally turn slightly upward, creating a gentle and harmless look.",
+    "Teeth_and_Smile": "In natural smiles, the teeth are relatively well-aligned, and the visible dental arc is rounded, further enhancing the sweet impression."
+  },
+  "Face_Shape_and_Other_Details": {
+    "Face_Shape": "A small oval face with a slight roundness; jaw angles are soft and not prominent. Combined with a slightly wider eye spacing, the overall structure features a compact mid-face and a shorter lower face, reinforcing a youthful appearance.",
+    "Skin_Tone_and_Texture": "Skin tone ranges from fair to natural fair. In Japanese- or Korean-style makeup, it is often brightened by one level, approaching a porcelain-white look. With soft-focus effects, the skin appears soft, smooth, and subtly luminous.",
+    "Common_Hair_Colors_and_Style": "Commonly seen with light brown, ash blonde, or milk-tea blonde straight or softly wavy hair, typically between collarbone and chest length. Paired with light-colored eyes, this creates an anime-inspired, elfin doll-like aesthetic."
+  }
+}
